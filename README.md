@@ -1,6 +1,6 @@
 # GradAdmits - The Graduate Admissions Predictor App
 
-https://gradadmits.herokuapp.com/
+>https://gradadmits.herokuapp.com/
 
 ## About the Project
 
@@ -47,9 +47,9 @@ Following algorithms were used:
 
 ![GUI_2](https://github.com/krishnova/graduate_admission_predictor/blob/6b337caf1d8895162310b5415bfc6a85e20b3d43/templates/screenshot_1.png)
 
-## Prediction
+## Prediction Results
 
 ![GUI_3](https://github.com/krishnova/graduate_admission_predictor/blob/6b337caf1d8895162310b5415bfc6a85e20b3d43/templates/screenshot_2.png)
 
 
-Link: [GradAdmits App](https://gradadmits.herokuapp.com/)
+>Link: [GradAdmits App](https://gradadmits.herokuapp.com/)
